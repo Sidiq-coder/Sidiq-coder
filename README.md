@@ -182,7 +182,7 @@ flowchart LR
 
 [![Email](https://img.shields.io/badge/Email-msidiqfirdauss%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msidiqfirdauss@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sidiq--coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sidiq-coder)
-[![Instagram](https://img.shields.io/badge/Instagram-%40msidiqfirdauss-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msidiqfirdauss)
+[![Instagram](https://img.shields.io/badge/Instagram-%40msidiqfirdauss-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msidiqfirdaus)
 
 </div>
 
